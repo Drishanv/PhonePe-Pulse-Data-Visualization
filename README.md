@@ -42,15 +42,13 @@ The dashboard contains **three pages**, each dedicated to a different level of a
 ## 📸 Dashboard Screenshots
 
 ### **Overview & Trends**
-![Overview Page](./images/overview_page.png)
+![Overview Page](./dashboard-screenshots/Overview%20and%20trends.png)
 
 ### **State-Wise Insights**
-![State Page](./images/state_page.png)
+![State Page](./dashboard-screenshots/State%20level%20insights.png)
 
 ### **District-Level Analytics**
-![District Page](./images/district_page.png)
-
-> Replace these with your actual screenshot paths.
+![District Page](./dashboard-screenshots/District%20level%20insights.png)
 
 ---
 
