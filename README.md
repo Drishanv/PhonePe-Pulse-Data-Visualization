@@ -100,15 +100,6 @@ Automatically displays:
 
 ---
 
-## 📥 Dataset Source
-Dataset used in this project is taken from:  
-📎 https://github.com/PhonePe/pulse  
-(As mentioned in project documentation :contentReference[oaicite:2]{index=2})
-
-You may also use the dataset shared in Google Drive (from documentation).
-
----
-
 ## 🧠 Learning Outcomes
 As per the project documentation (page 3) :contentReference[oaicite:3]{index=3}:
 
